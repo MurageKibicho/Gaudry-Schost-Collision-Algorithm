@@ -1,5 +1,7 @@
 # Unofficial LeetArxiv Implementation of the 2004 paper A Low-Memory Parallel Version of Matsuo, Chao and Tsujii’s Algorithm
 
+Complete Walkthrough available [here](https://leetarxiv.substack.com/p/gaudry-schost-collision-algorithm)
+
 ![Paper Abstract](Gaudry-Schost/MarketingPropaganda/Abstract.png)
 
 The original paper was designed around point counting algorithms for algebraic curves.
@@ -39,8 +41,5 @@ This has zero special requirements
 ```
  clear && gcc BallParadox.c -lm -o g.o && ./g.o
 ```
-
-
-
 
 Complete Walkthrough available [here](https://leetarxiv.substack.com/p/gaudry-schost-collision-algorithm)
